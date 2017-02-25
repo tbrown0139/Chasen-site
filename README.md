@@ -6,7 +6,6 @@ Pa'a Hana Towing & Hauling
 [![CodeFactor](https://www.codefactor.io/repository/github/tbrown0139/chasen-site/badge)](https://www.codefactor.io/repository/github/tbrown0139/chasen-site)
 
 
-
 [![Code Climate](https://codeclimate.com/github/tbrown0139/Chasen-site/badges/gpa.svg)](https://codeclimate.com/github/tbrown0139/Chasen-site)
 [![Test Coverage](https://codeclimate.com/github/tbrown0139/Chasen-site/badges/coverage.svg)](https://codeclimate.com/github/tbrown0139/Chasen-site/coverage)
 [![Issue Count](https://codeclimate.com/github/tbrown0139/Chasen-site/badges/issue_count.svg)](https://codeclimate.com/github/tbrown0139/Chasen-site)
