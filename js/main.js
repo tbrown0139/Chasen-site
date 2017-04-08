@@ -1,9 +1,6 @@
-// Hello.
-//
-// This is The Scripts used for Trevor's Theme
-//Trevor Brown
-//
-
+// Trevorbrown.tk
+// Towing Site
+// 2017
 function main() {
 
 (function () {
